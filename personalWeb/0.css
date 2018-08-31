@@ -1,0 +1,70 @@
+#title1{
+       font-size:200%;
+        font-weight:bold;   
+        background-color:white;
+        color:orange;
+        text-align:center;
+  }
+.text1{
+       font-family:"宋体";
+       color:grey;
+       font-size:25px;
+       background-color:white;
+}
+ body{
+        background:#e0e0e0;    
+ }
+#end{
+      font-size:20;
+        background-color:orange;
+        color:black;
+        text-align:center;
+   }
+.text2{
+       font-family:"宋体";
+       color:brown;
+        text-align:center;
+         font-size:24px;
+          background-color:pink;
+}
+.text3{
+       font-family:"宋体";
+       color:grey;
+       text-align:right;
+         font-size:20px;
+background-color:pink;
+}
+#title3{
+       font-size:180%;
+        font-weight:bold;   
+        background-color:orange;
+        color:white;
+        text-align:center;
+  }
+.hoby{
+       font-family:"宋体";
+       color:white;
+       text-align:right;
+         font-size:20px;
+background-color:orange;
+}
+     
+.video{
+      background-color:pink;
+     text-align:left;
+}
+.end3{
+       font-family:"楷体"；
+        color:green;
+        text-align:right;
+       font-size:20px;
+        background-color:pink;
+}
+#bgc3{
+        background-color:pink;
+  }
+         
+
+
+
+

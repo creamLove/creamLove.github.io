@@ -1,0 +1,21 @@
+
+<html>
+   <head>
+       <link href="0.css" rel="stylesheet" type="text/css" />
+        <title>微笑的轮廓有多美的主页</title>
+    </head>
+ <body>
+    <p id ="title1">Aloha~ (^^)／▽ ▽＼(^^)</p>
+    <div class="text1">
+      <img src="C:\Users\xy-pc\webMake\personalWeb\images\1.jpg"  align="right"></img><br/> 
+        <p>姓名：伊莉雅斯菲尔·冯·爱因兹贝伦（Illyasviel von Einzbern ）<br/><br/>
+         简介：游戏及动漫作品《Fate/Stay Night》所讲述的第五次圣杯战争中的重要人物，《Fate/Zero》第四次圣杯战争中Saber的Master卫宫切嗣与人造人爱丽丝菲尔·冯·爱因兹贝伦（Irisviel von Einzbern）的女儿。同时也是第五次圣杯战争中的小圣杯以及Berserker（赫拉克勒斯）的Master。
+        </p>
+   欲知其他详细内容请前往     <a href="
+http://acg.gamersky.com/fsn/data/477774.shtml">全Master人物资料_动漫星空Fate Stay Night专区</a>        <a href="www.baidu.com">百度一下＼( ^▽^ )／ 就知道</a><br/><br/> </div><br/><br/><br/>
+      <p id="end">题外话：关于没有简介自己的本网页作者的些许线索  
+   <a href="1.html">每日作息</a>    <a href="2.html">小趣味和爱好</a>
+</p>   
+
+</body>
+</html>
